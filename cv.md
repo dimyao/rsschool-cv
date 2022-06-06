@@ -39,6 +39,7 @@ not yet
 
 ### my education
 __university:__ current undergraduate student in Polish Philology 
+__courses:__ HTML Academy
 
 
 ### my english skills
