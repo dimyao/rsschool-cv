@@ -5,7 +5,7 @@
 
 * __t e l e g r a m :__   _@deumiteuri_        
 * __d i s c o r d   :__   _@dimyao_            
-* __e m a i l       :__     _dibureng@gmail.com_ 
+* __e m a i l       :__   _dibureng@gmail.com_ 
 
 
 ### about me 
@@ -38,7 +38,7 @@ not yet
 
 
 ### my education
-Current undergraduate student in Polish Philology 
+__university:__ current undergraduate student in Polish Philology 
 
 
 ### my english skills
