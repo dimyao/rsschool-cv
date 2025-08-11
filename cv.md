@@ -8,7 +8,7 @@
 
 
 ## about me
-I have gratuated University and get BA in Philosophy. During my study I noticed I'm keen on programmimg. I started my learning of programming from Python, but then I understand Frontend is more interesting for me. Now I want become a good Frontend developer and then move further.
+I have gratuated University and get BA in Philosophy. During my study I noticed I'm keen on programmimg. I started my learning of programming from Python, but then I understand Frontend is more interesting for me. Now I want become a good Frontend developer and then move further
 
 
 ## skills
