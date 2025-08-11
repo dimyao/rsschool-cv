@@ -43,7 +43,7 @@ No
 
 
 ## education
-Saint Petersburg State Univesity | 2023 | Philosophy
+St. Petersburg State Univesity | 2023 | Philosophy
 
 
 ## language
