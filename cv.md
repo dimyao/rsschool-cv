@@ -1,7 +1,7 @@
 # Dmitriy Burov
 
 
-|       contact        |       address        |
+
 |----------------------|----------------------|
 |**e-mail**            |**dibureng@gmail.com**|
 |**telegram**          |**@anaesthetiks**     |
@@ -12,6 +12,7 @@ I have gratuated University and get BA in Philosophy. During my study I noticed 
 
 
 ## skills
+
 |       skill          |       level          |
 |----------------------|----------------------|
 |**HTML5**             |**middle**            |
@@ -23,23 +24,13 @@ I have gratuated University and get BA in Philosophy. During my study I noticed 
 
 ## code example
 ```
-import java.util.Scanner;
-
-public class App {
-  public static void main(String[] args) {
-    Scanner scanner = new Scanner(System.in);
-    result = readInput();
-    System.out.println(result);
-  }
-  public static String readInput() {
-    message = scanner.nextLine();
-    return message;
-}  
+function main(a, b) {
+    return a + b;
+};
 ```
 
-
 ## experience 
-No 
+I haven't any experience yet 
 
 
 ## education
