@@ -1,7 +1,7 @@
 # Dmitriy Burov
 
 
-
+|----------------------|----------------------|
 |----------------------|----------------------|
 |**e-mail**            |**dibureng@gmail.com**|
 |**telegram**          |**@anaesthetiks**     |
@@ -24,9 +24,9 @@ I have gratuated University and get BA in Philosophy. During my study I noticed 
 
 ## code example
 ```
-function main(a, b) {
+function sum(a, b) {
     return a + b;
-};
+}
 ```
 
 ## experience 
