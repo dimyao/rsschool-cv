@@ -1,7 +1,7 @@
 # Dmitriy Burov
 
 
-|                      |                      |
+|       contact        |        address       |
 |----------------------|----------------------|
 |**e-mail**            |**dibureng@gmail.com**|
 |**telegram**          |**@deumiteuri**     |
@@ -15,12 +15,11 @@ I have gratuated University and get BA in Philosophy. During my study I noticed 
 
 |       skill          |       level          |
 |----------------------|----------------------|
-|**HTML5**             |**middle**            |
+|**HTML5**             |**junior**            |
 |**CSS3**              |**junior**            |
-|**JavaScript Basics** |**junior**            |
+|**JavaScript Basics** |**intern**            |
 |**React**             |**intern**            |
-|**Python basics**     |**junior**            |
-|**Java basics**       |**intern**            |
+|
 
 ## code example
 ```
