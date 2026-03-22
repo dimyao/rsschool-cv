@@ -1,10 +1,10 @@
 # Dmitriy Burov
 
 
-|----------------------|----------------------|
+|                      |                      |
 |----------------------|----------------------|
 |**e-mail**            |**dibureng@gmail.com**|
-|**telegram**          |**@anaesthetiks**     |
+|**telegram**          |**@deumiteuri**     |
 
 
 ## about me
